@@ -1,4 +1,8 @@
-#Hello World
+<<<<<<< HEAD
+# Hello World
+=======
+# Hello World
+>>>>>>> 830c84ee719dde2162206ed64f3a7d8e0e3659b3
 
 theme: jekyll-theme-cayman
 
