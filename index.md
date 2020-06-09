@@ -5,6 +5,9 @@
 ## Books
 * [Deep Learning Book](https://www.deeplearningbook.org/)
 
+## Courses
+* [UCL Course on RL](https://www.davidsilver.uk/teaching/)
+
 ## Software
 * [TensorFlow Overview](https://www.tensorflow.org/overview)
 * [Keras](https://keras.io/)
