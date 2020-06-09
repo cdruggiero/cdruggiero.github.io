@@ -2,6 +2,13 @@
 * [Machine Learning for Physicists](https://machine-learning-for-physicists.org/) [2020](https://pad.gwdg.de/s/HJtiTE__U)
 * [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
+## Books
+* [Deep Learning Book](https://www.deeplearningbook.org/)
+
+## Software
+* [TensorFlow Overview](https://www.tensorflow.org/overview)
+* [Keras](https://keras.io/)
+
 ## Machine Learning in the Phsysical Sciences
 * [A high-bias, low-variance introduction to Machine Learning for physicists](https://arxiv.org/abs/1803.08823) (arXiv:1803.08823) – by Pankaj Mehta, Marin Bukov, Ching-Hao Wang, Alexandre G.R. Day, Clint Richardson, Charles K. Fisher, David J. Schwab.
 
