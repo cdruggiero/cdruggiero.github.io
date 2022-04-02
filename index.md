@@ -1,9 +1,10 @@
-# Useful Links
+## Useful Links
 * [Machine Learning for Physicists](https://machine-learning-for-physicists.org/) [2020](https://pad.gwdg.de/s/HJtiTE__U)
 * [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
 ## Books
 * [Deep Learning Book](https://www.deeplearningbook.org/)
+* [An Introduction to Statistical Learning](https://www.statlearning.com)
 
 ## Courses
 * [UCL Course on RL](https://www.davidsilver.uk/teaching/)
